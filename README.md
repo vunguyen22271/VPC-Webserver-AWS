@@ -3,6 +3,7 @@ Xây dựng VPC và chạy Webserver trên AWS
 Nhóm 01:
 - Nguyễn Tuấn Vũ - 18133064
 - Nguyễn Xuân Hiệu - 18133013
+
 Yêu cầu đề tài:
 - Xây dựng VPC: 1 public subnet + 1 private subnet
 - Khởi tạo 1 EC2 (cài đặt web server) + 1  DynamoDB
