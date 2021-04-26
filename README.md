@@ -1,4 +1,4 @@
-Đề tài môn Công nghệ phần mềm
+Đề tài môn Điện toán đám mây
 Xây dựng VPC và chạy Webserver trên AWS
 Nhóm 01:
 - Nguyễn Tuấn Vũ - 18133064 -- FB: https://www.facebook.com/vunguyen22271 -- Email: 18133064@student.hcmute.edu.vn
